@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by 𝕯⃟E_ALCHEMISTꦿ⸼***
+***Made on Earth by 𝕯⃟E_ALCHEMIST⸼***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
