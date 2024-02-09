@@ -71,7 +71,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254102074064) via WhatsApp or [here](darkintent120@gmail.com) via Email.
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254787002739) via WhatsApp or [here](dealchemist641@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -80,5 +80,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://https://github.com/drexmose/Cdrex-ai/blob/main/LICENSE)
 
-Copyright (c) 2023 𝐃𝐑𝐄𝐗_𝐀𝐈
+Copyright (c) 2023 TABOONIXX-AI 
 
