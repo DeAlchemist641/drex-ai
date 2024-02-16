@@ -1,6 +1,6 @@
 # TABOONIXX_AI
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DAUDI_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+DE_ALCHEMIST" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=TABOONIXX_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+DE_ALCHEMIST" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
