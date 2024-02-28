@@ -80,15 +80,15 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐃𝐑𝐄𝐗_𝐀𝐈';
-    const packname = process.env.STICKER_PACKNAME || 'Drex';
+    const author = process.env.STICKER_AUTHOR ||'TABOONIXX ';
+    const packname = process.env.STICKER_PACKNAME || 'De Alchemist ';
 const dev = process.env.DEV || '254102074064'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
    const bad = process.env.BAD_WORD || 'fuck';
-    const autoread = process.env.AUTOREAD || 'TRUE';
+    const autoread = process.env.AUTOREAD || 'FALSE';
     const badword = bad.split(",");
     const Owner = DevDreaded.map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender)
     // Group
