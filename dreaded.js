@@ -1,4 +1,4 @@
-
+use
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require("@whiskeysockets/baileys");
 const fs = require("fs");
 const util = require("util");
@@ -191,7 +191,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐃𝐑𝐄𝐗_𝐀𝐈\x20an',
+        'TABOONIXX_A𝐈\x20an',
         '376590puyzhN',
         'key'
     ];
